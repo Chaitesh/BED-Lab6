@@ -1,0 +1,6 @@
+com\gl\collegefest\entity\Student.class
+com\gl\collegefest\service\StudentService.class
+com\gl\collegefest\repository\RoleRepository.class
+com\gl\collegefest\repository\StudentRepository.class
+com\gl\collegefest\entity\Role.class
+com\gl\collegefest\controller\StudentController.class
